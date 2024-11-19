@@ -66,4 +66,14 @@
 
 ### Решение 2
 
+* создал манифеси Service, применил его и проверил доступность по локальному IP 
+
+![Screenshot_6](https://github.com/user-attachments/assets/b9e49f0f-5d4e-4029-9de7-02036065e30b)
+
+![Screenshot_7](https://github.com/user-attachments/assets/2fb1204b-0064-48f9-99a1-1999fbacb79a)
+
+![Screenshot_8](https://github.com/user-attachments/assets/a9a1f7b8-9156-4f7c-a598-8f205b4dd26c)
+
+![Screenshot_9](https://github.com/user-attachments/assets/dee6169c-f3d1-4d40-9985-3527a8577c83)
+
 ---
