@@ -52,9 +52,11 @@
 
 ![Screenshot_1](https://github.com/user-attachments/assets/b27ce14a-fa21-4ca7-bdc7-c1992e49dea8)
 
+* 3 реплики
+
 ![Screenshot_2](https://github.com/user-attachments/assets/843b7d1e-12c1-43ca-835f-8ae0605a363a)
 
-* Подключился к поду, проверил доступность к nginx и multitool.
+* Подключился к поду, проверил доступность к nginx и multitool по портам 9001 9002.
   
 ![Screenshot_3](https://github.com/user-attachments/assets/bcdfca4c-c6f4-41a5-9f1b-e7fc1f735685)
 
